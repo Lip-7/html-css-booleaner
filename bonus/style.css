@@ -1,0 +1,100 @@
+#logo{
+    width: 10%;
+    margin-top: 2%;
+    margin-left: 0.2%;
+    margin-bottom: 0.2%;
+}
+header{
+    background-image: url(../img/pattern.png);
+    background-color:#4ea0ff;
+    background-size: 20%;
+}
+body{
+    margin: 0px;
+    margin: auto;
+    width: 1080px;
+
+}
+main{
+    margin:0px 10px;
+}
+footer{
+    margin:0px 10px;
+}
+.h1-title{
+    margin-bottom: 0px;
+    font-size: 2em;
+}
+.subtext{
+    color:gray ;
+}
+.marked.subtext{
+    color: #24aae5;
+}
+#date{
+    font-size: 0.65em;
+}
+section{
+    margin-bottom: 13px;
+}
+figcaption{
+    font-size: 0.75em;
+}
+.highlighted{
+    background-color:#ffff00;
+}
+.list{
+    padding: 1em;
+}
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 12em;
+    height: 12em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0.7em 0px 0.7em 0px;
+    padding-top: 0.5em;
+}
+#graph{
+    background: url(../img/graph.jpg);
+    width: 12em;
+    height: 12em;
+    padding-top: 0.5em;
+
+}
+.img.text{
+    color: white;
+    margin: 10px;
+    margin-top: 10px;
+}
+
+.row.left{
+    width: 15em;
+    text-align: left;
+}
+.row.center{
+    width: 15em;
+    text-align: center;
+}
+.row.right{
+    text-align: left;
+}
+
+
+.first, .third{
+    background-color: #b1e5f2;
+}
+
+
+
+.toprow{
+    background-color: #24aae5;
+    color: white;
+}
+.top{
+    border-spacing: 0px;
+}
+table{
+    border-collapse: collapse
+}

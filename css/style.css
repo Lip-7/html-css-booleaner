@@ -13,3 +13,31 @@ body{
     margin: 0px;
 
 }
+main{
+    margin:0px 10px;
+}
+footer{
+    margin:0px 10px;
+}
+.h1-title{
+    margin-bottom: 0px;
+    font-size: 2em;
+}
+.subtext{
+    color:gray ;
+}
+.marked.subtext{
+    color: #24aae5;
+}
+#date{
+    font-size: 0.65em;
+}
+section{
+    margin-bottom: 13px;
+}
+figcaption{
+    font-size: 0.75em;
+}
+.highlighted{
+    background-color:#ffff00;
+}

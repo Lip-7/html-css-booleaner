@@ -44,3 +44,22 @@ figcaption{
 .list{
     padding: 1em;
 }
+#monitor{
+    background-image: url(../img/monitor.jpg);
+    width: 12em;
+    height: 12em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+#graph{
+    background: url(../img/graph.jpg);
+    width: 12em;
+    height: 12em;
+
+}
+.img.text{
+    color: white;
+    margin: 10px;
+    margin-top: 10px;
+}

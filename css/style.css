@@ -90,3 +90,6 @@ figcaption{
 .top{
     border-spacing: 0px;
 }
+table{
+    border-collapse: collapse
+}

@@ -51,11 +51,14 @@ figcaption{
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
+    margin: 0.7em 0px 0.7em 0px;
+    padding-top: 0.5em;
 }
 #graph{
     background: url(../img/graph.jpg);
     width: 12em;
     height: 12em;
+    padding-top: 0.5em;
 
 }
 .img.text{
